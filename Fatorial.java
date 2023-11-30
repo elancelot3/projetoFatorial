@@ -5,5 +5,6 @@ public class Fatorial{
       for (int i = 0; i < n; i++)
          resultado*=i;
          return resultado;
+         rwrwrwr
    }
 }
